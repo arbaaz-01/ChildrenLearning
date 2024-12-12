@@ -1,0 +1,25 @@
+.learning-module {
+  background-color: #FFF;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.item-display {
+  font-size: 5em;
+  margin: 20px 0;
+  cursor: pointer;
+  user-select: none;
+}
+
+.animal-image {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.next-button {
+  margin-top: 20px;
+}
+

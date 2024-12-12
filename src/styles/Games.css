@@ -1,0 +1,25 @@
+.games {
+  background-color: #FFF;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.game-selection {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 20px;
+}
+
+.back-button {
+  margin-top: 20px;
+  background-color: #f44336;
+}
+
+.back-button:hover {
+  background-color: #d32f2f;
+}
+
