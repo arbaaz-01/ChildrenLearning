@@ -1,6 +1,7 @@
 ## 🎨 FunLearn Kids
 
 A fun and interactive **learning website for children** built using **React**. It helps kids learn:
+[🔗 Live Demo](https://children-learning.vercel.app/)
 
 * 🔢 Numbers
 * 🔤 Alphabet
