@@ -1,7 +1,3 @@
-Here’s a **simple and short README** for your **Children Learning Website** built with React:
-
----
-
 ## 🎨 Kids Learning Fun
 
 A fun and interactive **learning website for children** built using **React**. It helps kids learn:
